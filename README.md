@@ -1,6 +1,9 @@
 # TDD - Test Driven Development tutorial
 ---
-  ####Get started with mocha, chai and test driven development in 5 easy steps!
+
+Thanks [Collin](https://github.com/cfmeyers) for the intro to TDD =)
+
+####Get started with mocha, chai and test driven development in 5 easy steps!
   ***
 
 Testing with mocha & chai is super easy.
@@ -49,7 +52,7 @@ $ mocha
 
 Your test should tell you if there were any issues and move your development forward. Watch this 8ish minute video for a quick look into how awesome TDD can be!
 
-Thanks [Collin](https://github.com/cfmeyers) for the intro to TDD =)
+
 
 
 
