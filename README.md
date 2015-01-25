@@ -3,6 +3,8 @@
 
 Thanks [Collin](https://github.com/cfmeyers) for the intro to TDD =)
 
+Watch [this 8ish minute video](https://www.youtube.com/watch?v=tdNnN5yTIeM) for a quick look into how awesome TDD can be!
+
 ####Get started with mocha, chai and test driven development in 5 easy steps!
   ***
 
@@ -50,7 +52,7 @@ $ cd ..
 $ mocha
 ```
 
-Your test should tell you if there were any issues and move your development forward. Watch this 8ish minute video for a quick look into how awesome TDD can be!
+Your test should tell you if there were any issues and move your development forward. 
 
 
 
